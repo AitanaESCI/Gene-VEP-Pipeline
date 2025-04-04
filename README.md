@@ -37,7 +37,7 @@ To use this pipeline:
 ### ⚙️ Usage
 ```bash
 # Step 1: Prepare a text file with gene symbols (e.g., my_genes.txt) or directly input a gene name
-# Step 2: Specify the desired assembly into which retrieve the predictions
+# Step 2: Specify the desired assembly to retrieve predictions
 # Step 3: Run the full pipeline
 
 ./pipeline.sh my_genes.txt GRCh38
